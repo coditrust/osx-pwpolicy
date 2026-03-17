@@ -1,5 +1,5 @@
 
-This script is based on https://gist.github.com/Freccia/37df869bd91a2c5edfffd4b02f5d24f0 but is actually working because the constants were never not used !!
+This script is based on https://gist.github.com/Freccia/37df869bd91a2c5edfffd4b02f5d24f0 but is actually working because the constants were never used !!
 
 It has been tested on macOS version 14 and 15.
 
