@@ -25,7 +25,7 @@ fi
 #MAX_FAILED=10                   # 10 max failed logins before locking
 
 PW_EXPIRE=360                   # 180 days password expiration
-MIN_LENGTH=12                   # at least 10 chars for password
+MIN_LENGTH=12                   # at least 12 chars for password
 MIN_ALPHA_LOWER=1               # at least 1 lower case letter in password
 MIN_UPPER_ALPHA=1               # at least 1 upper case letter in password
 MIN_SPECIAL_CHAR=1              # at least one special character in password
