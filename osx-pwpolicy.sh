@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 ###################################################################################
 ##   Create a pwpolicy XML file based upon variables and options included below.
